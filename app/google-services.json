@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "527340263265",
+    "firebase_url": "https://dummy-112db-default-rtdb.firebaseio.com",
+    "project_id": "dummy-112db",
+    "storage_bucket": "dummy-112db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527340263265:android:6e2691bb21461909955720",
+        "android_client_info": {
+          "package_name": "com.example.fosshack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe66QGyXbt1h5pLqvXO9mwdLAzmP_2V3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departments">
+        <item>Cardiology</item>
+        <item>Neurology</item>
+        <item>Orthopedics</item>
+        <item>Pediatrics</item>
+        <item>General Medicine</item>
+    </string-array>
+</resources>
